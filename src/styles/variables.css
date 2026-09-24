@@ -1,0 +1,24 @@
+:root {
+  --color-bg: #080711;
+  --color-surface: #11101D;
+  --color-primary: #8B5CF6;
+  --color-pink: #FF4FD8;
+  --color-white: #F7F5FA;
+  --color-muted: #AAA5B8;
+  --color-border: #29233A;
+  --gradient-primary: linear-gradient(135deg, #8B5CF6, #FF4FD8);
+  --font-main: "Manrope", sans-serif;
+  --radius-button: 999px;
+  --radius-card: 20px;
+  --radius-input: 12px;
+  --radius-large: 28px;
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 32px;
+  --space-xl: 48px;
+  --space-2xl: 64px;
+  --space-3xl: 80px;
+  --space-4xl: 120px;
+  --container-width: 1280px;
+}
